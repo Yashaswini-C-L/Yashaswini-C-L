@@ -1,100 +1,65 @@
-## Hi there 👋
-<div align="center">
+<p align="center">
+  <a href="https://github.com/Yashaswini-C-L">
+    <img src="https://capsule-render.vercel.app/api?type=transparent&fontColor=2ea043&fontSize=54&height=90&width=420&text=Hello!%20I'm" alt="Hello! I&#39;m" />
+  </a>
+</p>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=1D4ED8&height=200&section=header&text=Yashaswini%20C%20L&fontSize=50&fontColor=ffffff&animation=twinkling" width="100%"/>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Caveat&weight=600&size=26&pause=1000&color=a371f7&center=true&vCenter=true&width=360&height=44&lines=Code.%20Create.%20Scale." alt="Typing headlines" />
+</p>
 
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&pause=1000&color=1D4ED8&center=true&vCenter=true&width=600&lines=React+Developer;Building+Housy+Hunt+%E2%80%94+Real+Estate+Marketplace;MERN-Stack+Web+Developer" alt="Typing SVG" />
-</a>
+### 🚀 About Me
 
-<img src="https://komarev.com/ghpvc/?username=Yashaswini-C-L&color=1D4ED8&style=flat" alt="Profile Views"/>
-<img src="https://img.shields.io/github/followers/Yashaswini-C-L?label=Followers&style=social" alt="Followers"/>
+Frontend Developer focused on building modern, responsive, and user-centric web applications. Skilled in HTML, CSS, JavaScript, React, and Tailwind CSS, with experience in UI design and digital product development. Passionate about turning ideas into impactful, scalable web solutions while continuously expanding into full-stack development.
 
-</div>
+🌱 &nbsp;I'm currently learning **Full Stack**  
+💬 &nbsp;Ask me about **HTML · CSS · JavaScript · React · Tailwind CSS · Node.js · Express.js · Git · GitHub**
 
-<br/>
+### 🛠️ Tech Stack
 
-## 👩‍💻 Who I Am
+<p align="left">
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black" alt="C" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
+  <img src="https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express" />
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js" />
+  <img src="https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white" alt="jQuery" />
+  <img src="https://img.shields.io/badge/Tailwind%20CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" alt="Tailwind CSS" />
+  <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap" />
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=vscodium&logoColor=white" alt="VS Code" />
+</p>
 
-```typescript
-const yashaswini = {
-  title: "React Developer",
-  stack: ["React", "Node.js", "Express.js", "TailwindCSS"],
-  launchedProjects: ["Housy Hunt — Real Estate Marketplace (housyhunt.com)"],
-  certifications: [],
-  status: "Building and shipping web products with React on the frontend and Node/Express on the backend",
-  openTo: "Collaborations and opportunities in frontend / full-stack development",
-};
-```
+### 🔗 Connect With Me
 
-<br/>
+<p align="left">
+  <a href="https://www.linkedin.com/in/ms-yashaswini-c-l-071385339" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="mailto:yashaswini01025@gmail.com" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+</p>
 
-## 🚀 Featured Projects
+### 📊 GitHub Stats
 
-### 🏠 Housy Hunt
-Real estate platform that helps users discover, buy, sell, and rent properties through a convenient online marketplace.
+<p align="center">
+  <img height="165" src="https://github-readme-stats-five-sigma-99.vercel.app/api?username=Yashaswini-C-L&show_icons=true&theme=tokyonight&title_color=2ea043&icon_color=2ea043&hide_border=true&bg_color=00000000&count_private=true" alt="stats" />
+  <img height="165" src="https://github-readme-stats-five-sigma-99.vercel.app/api/top-langs/?username=Yashaswini-C-L&layout=compact&theme=tokyonight&title_color=2ea043&icon_color=2ea043&hide_border=true&bg_color=00000000&langs_count=8" alt="top langs" />
+</p>
 
-| Layer    | Technology              |
-|----------|--------------------------|
-| Frontend | React, TailwindCSS       |
-| Backend  | Node.js, Express.js      |
+### 📈 Contribution Graph
 
-🔗 **Live:** [housyhunt.com](https://housyhunt.com/)
+<p align="center">
+  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Yashaswini-C-L&bg_color=00000000&color=2ea043&line=2ea043&point=c9d1d9&area=true&hide_border=true" alt="activity graph" />
+</p>
 
-<br/>
+### 💭 Dev Quote
 
-## 🛠️ Tech Stack
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Dev quote" />
+</p>
 
-**Languages**
-
-<img src="https://skillicons.dev/icons?i=js" />
-
-**Frontend**
-
-<img src="https://skillicons.dev/icons?i=react,tailwind" />
-
-**Backend / Infra**
-
-<img src="https://skillicons.dev/icons?i=nodejs,express" />
-
-<br/>
-
-## 📊 GitHub Stats
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=Yashaswini-C-L&show_icons=true&theme=nord&title_color=1D4ED8&icon_color=1D4ED8&text_color=ffffff&border_color=1D4ED8&bg_color=0D1117" width="48%"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yashaswini-C-L&layout=compact&theme=nord&title_color=1D4ED8&text_color=ffffff&border_color=1D4ED8&bg_color=0D1117" width="48%"/>
-
-<img src="https://streak-stats.demolab.com/?user=Yashaswini-C-L&theme=nord&hide_border=false&stroke=1D4ED8&ring=1D4ED8&fire=1D4ED8&currStreakLabel=1D4ED8&background=0D1117" width="70%"/>
-
-</div>
-
-### 🏆 Trophies
-
-<div align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=Yashaswini-C-L&theme=nord&no-frame=true&no-bg=true&column=7&margin-w=8" />
-</div>
-
-### 📈 Activity Graph
-
-<div align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Yashaswini-C-L&theme=react-dark&hide_border=true&color=1D4ED8&line=1D4ED8&point=ffffff&area=true" width="90%"/>
-</div>
-
-<br/>
-
-## 🔗 Connect With Me
-
-<div align="center">
-
-<a href="https://www.linkedin.com/in/ms-yashaswini-c-l-071385339" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-1D4ED8?style=for-the-badge&logo=linkedin&logoColor=white" />
-</a>
-<a href="mailto:yashaswini01025@gmail.com">
-  <img src="https://img.shields.io/badge/Email-1D4ED8?style=for-the-badge&logo=gmail&logoColor=white" />
-</a>
-
-</div>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=1D4ED8&height=100&section=footer" width="100%"/>
+---
+<p align="center"><i>⭐️ From <a href="https://github.com/Yashaswini-C-L">Yashaswini-C-L</a></i></p>
