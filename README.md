@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://github.com/Yashaswini-C-L">
-    <img src="https://capsule-render.vercel.app/api?type=transparent&fontColor=2ea043&fontSize=54&height=90&width=420&text=Hello!%20I'm" alt="Hello! I&#39;m" />
+    <img src="https://capsule-render.vercel.app/api?type=transparent&fontColor=2ea043&fontSize=54&height=90&width=762&text=Hello!%20I'm%20Yashaswini" alt="Hello! I&#39;m Yashaswini" />
   </a>
 </p>
 
@@ -13,7 +13,7 @@
 Frontend Developer focused on building modern, responsive, and user-centric web applications. Skilled in HTML, CSS, JavaScript, React, and Tailwind CSS, with experience in UI design and digital product development. Passionate about turning ideas into impactful, scalable web solutions while continuously expanding into full-stack development.
 
 🌱 &nbsp;I'm currently learning **Full Stack**  
-💬 &nbsp;Ask me about **HTML · CSS · JavaScript · React · Tailwind CSS · Node.js · Express.js · Git · GitHub**
+💬 &nbsp;Ask me about **JavaScript · React · Tailwind CSS · HTML · CSS · Node.js · Express.js · Git · GitHub · C · Python**
 
 ### 🛠️ Tech Stack
 
@@ -53,12 +53,6 @@ Frontend Developer focused on building modern, responsive, and user-centric web 
 
 <p align="center">
   <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Yashaswini-C-L&bg_color=00000000&color=2ea043&line=2ea043&point=c9d1d9&area=true&hide_border=true" alt="activity graph" />
-</p>
-
-### 💭 Dev Quote
-
-<p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Dev quote" />
 </p>
 
 ---
